@@ -17,7 +17,7 @@
     <a href="mailto:hello@kiri.ng">
       <img src="https://img.shields.io/badge/Contact-hello@kiri.ng-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://twitter.com/Kiri_Research">
+    <a href="https://twitter.com/Kiri_ng_social">
       <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
     </a>
     <a href="https://web.facebook.com/kiri.ng.social">
