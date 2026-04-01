@@ -1,0 +1,1 @@
+Summary of Physarum-inspired routing: Decentralized, low-memory, resilient to edge network churn. Ideal for Kiri's 1GB RAM edge stack.
